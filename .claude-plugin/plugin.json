@@ -19,5 +19,5 @@
     "spreadsheet",
     "due-diligence"
   ],
-  "skills": "./skills"
+  "skills": "./plugin/skills"
 }
