@@ -1,7 +1,7 @@
 {
   "name": "investor-search",
   "displayName": "Investor Search",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Build a sourced list of the investors in any market. Separates real investors from the advisers who sell to them, keeps a source for every field, and says honestly how complete the list is.",
   "author": {
     "name": "Fahad Farooq",
